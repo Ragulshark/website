@@ -1,0 +1,23 @@
+img{
+    width: 11rem;
+
+}
+.con{
+     display: flex;
+    background-color: aqua;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+    margin: 10px;
+
+
+    
+}
+.second{
+    font-size: 10px;
+}
+.first{
+    background-color: aquamarine;
+    padding: 18px;
+}
